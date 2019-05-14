@@ -1,3 +1,2 @@
 # python-learning
-Basic python learning 
-python from A to Z
+Basic python learning  from A to Z
