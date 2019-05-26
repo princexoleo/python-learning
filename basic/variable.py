@@ -11,4 +11,19 @@ print(type(name)) # <class 'str'>
 
 #if we want to find any variable class type then
 #we use this type() methods and in type method we pass
-#our desire variable 
+#our desire variable
+
+name = 'University'
+print(name[1:5]) #print nive
+#thats mean it will print name[1] to name[5] index number character
+print(name[:3]) #print Uni
+
+print(name[-3]) #print i
+
+print(name[:-3]) #print Univers
+#thats means it will minus index from the last and all of the index
+#will print without the last
+#it will print from Zero to (last_index-3)
+# important things if any index is not found then it will show a IndexError: string out of range
+# print(name[15])
+#we also acces any string variable like this way   varname[index] 
