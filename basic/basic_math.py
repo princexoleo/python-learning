@@ -21,4 +21,5 @@ print(2**4) #print same answer 16
 
 #in string
 a="HeLL"
-print(4*a)
+print(4*a) #print HeLLHeLLHeLLHeLL
+#thats mean HeLL will print 4 times

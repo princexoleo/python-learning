@@ -26,4 +26,4 @@ print(name[:-3]) #print Univers
 #it will print from Zero to (last_index-3)
 # important things if any index is not found then it will show a IndexError: string out of range
 # print(name[15])
-#we also acces any string variable like this way   varname[index] 
+#we also acces any string variable like this way   varname[index]
