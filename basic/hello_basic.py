@@ -9,3 +9,5 @@ print('Leo\'s "Laptop"')     # this will the correct answer
 print('o-----')
 print(' |||||')
 print('*' * 10)  # multiplying string by 10
+
+
